@@ -5,3 +5,5 @@ To install jenkins : yum install jenkins -y
 To start jenkins : systemctl start jenkins
 To check jenkins status : systemctl status jenkins
 To stop jenkins : systemctl stop jenkins
+
+Adding some data in the file to check build
